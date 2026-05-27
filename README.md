@@ -1,7 +1,7 @@
 ### Hello everyone, I'm Kunal 👋
 
-- 🔭 I’m currently working on [LazyPay](https://lazypay.in/)
-- 🌱 6 years experience of Bug-Driven-Development.
+- 🔭 I’m currently working on [MakeMyTrip](https://play.google.com/store/apps/details?id=com.makemytrip&hl=en_IN)
+- 🌱 9 years experience of Bug-Driven-Development.
 - 📫 How to reach me: [LinkedIn](https://bit.ly/3dO4e9C)
 - 😍 Loves to automate stuff.
 - 🤓 Ask me about Product Development and Management.
